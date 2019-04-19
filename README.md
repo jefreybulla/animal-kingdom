@@ -1,5 +1,5 @@
-#About
-Sample app to showcase BlockStack authentication and store using React. 
+# About
+Sample app to showcase BlockStack authentication and store using React.
 
 
 # Animal Kingdom Sample app
