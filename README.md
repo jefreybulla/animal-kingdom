@@ -1,3 +1,7 @@
+#About
+Sample app to showcase BlockStack authentication and store using React. 
+
+
 # Animal Kingdom Sample app
 
 This sample app allows a user to create their own animal kingdom. They create their own
