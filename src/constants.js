@@ -1,5 +1,6 @@
 import { AppConfig } from 'blockstack'
 
+//Blockstack scope: config data requested from user and persmissions to write
 export const appConfig = new AppConfig(['store_write', 'publish_data'])
 export const ANIMALS = [
   {
