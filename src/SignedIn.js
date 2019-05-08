@@ -63,6 +63,12 @@ class SignedIn extends Component {
 
   render() {
     const username = this.userSession.loadUserData().username
+    const email = this.userSession.loadUserData().email
+    const userData = this.userSession.loadUserData()
+    console.log('message for Jef:')
+    console.log(username)
+    console.log(email)
+    console.log(userData)
     const me = this.state.me
     const redirectToMe = this.state.redirectToMe
     if(redirectToMe) {
